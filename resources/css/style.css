@@ -10,15 +10,15 @@ h1 {
 
 .titlenav,
 #subtitle {
-  background-image: url("./resources/images/background.png");
+  background-image: url("../images/background.png");
 }
 
-.nav {
+.nav1 {
+  font-size: 18px;
   color: white;
 }
 
-li {
-  font-size: 18px;
+.nav2 {
   color: white;
 }
 
