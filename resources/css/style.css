@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 18px;
+  color: white;
+}
+
+.titlenav,
+#subtitle {
+  background-image: url("./resources/images/background.png");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#subtitle {
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
