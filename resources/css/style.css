@@ -13,6 +13,10 @@ h1 {
   background-image: url("./resources/images/background.png");
 }
 
+.nav {
+  color: white;
+}
+
 li {
   font-size: 18px;
   color: white;
